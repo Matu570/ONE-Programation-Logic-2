@@ -1,5 +1,5 @@
 function breakLine(){
-    document.write("<br><br><br>");
+    document.write("<br>");
 };
 function printPhrase(phrase){
     document.write(phrase);
